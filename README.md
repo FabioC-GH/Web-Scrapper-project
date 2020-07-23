@@ -6,7 +6,7 @@ The data chosen to be collected is of living costs from various available countr
 
 Data will be extrated to excel files.
 
-There 3 main files.
+There 3 main files:
 
   web_scrapper_paises.ipynb ->
   Obtains the list of countries and the information on living costs from countries on the list.
